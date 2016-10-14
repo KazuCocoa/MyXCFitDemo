@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>OCSlimProject-OCSlimProject.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-XCFitAcceptanceTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-XCFitDemoTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>XCFit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>cslim.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A3F45E9B3971B4778A309B715D9F3ACD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA9D1153E68E6CC71B58FB63ABC04A40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C419C443462CE8418AA9349181BE2BE7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E884ED3E99B4F837DB59B3D47CE32F74</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F673226E2D7E7F7C729F273DD77C1B28</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
